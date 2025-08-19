@@ -2,7 +2,7 @@
 # All Rights Reserved.
 
 Bootstrap: docker
-From: alpine:edge
+From: alpine:latest
 
 %labels
     AUTHOR icaoberg
